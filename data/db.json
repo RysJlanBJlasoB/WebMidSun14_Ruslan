@@ -1,0 +1,74 @@
+{
+    "user": {
+        {
+            "id": 1,
+            "name": "Sergey",
+            "surname": "Belousov",
+            "photo":"",
+            "balance": 1500
+        },
+        {
+            "id": 2,
+            "name": "Vlad",
+            "surname": "Belosov",
+            "photo":"",
+            "balance": 2000
+        },
+        {
+            "id": 3,
+            "name": "Maksim",
+            "surname": "Krasoch",
+            "photo":"",
+            "balance": 2300
+        },
+        {
+            "id": 4,
+            "name":"Vadim",
+            "surname":"Rysich",
+            "photo":"",
+            "balance": 1300
+        },
+        {
+            "id": 5,
+            "name": "Stas",
+            "surname": "Krasniy",
+            "photo":"",
+            "balance": 2700
+        },
+        {
+            "id": 6,
+            "name": "vladislav",
+            "surname": "Drevniy",
+            "photo":"",
+            "balance": 2850
+        },
+        {
+            "id": 7,
+            "name": "Miha",
+            "surname": "TrippleKillovich",
+            "photo":"",
+            "balance": 2393
+        },
+        {
+            "id": 8,
+            "name": "nikita",
+            "surname": "armyan",
+            "photo":"",
+            "balance": 3933
+        },
+        {
+            "id": 9,
+            "name": "Sergey",
+            "surname": "pudzhivich",
+            "photo":"",
+            "balance": 4000
+        },
+        {
+            "id": 10,
+            "name": "Artem",
+            "surname": "Peterbyrgovich",
+            "photo":"",
+            "balance": 3454
+        }
+    }
+}
