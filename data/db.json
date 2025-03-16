@@ -59,7 +59,7 @@
         {
             "id": 9,
             "name": "Sergey",
-            "surname": "pudzhivich",
+            "surname": "pudzhovich",
             "photo":"",
             "balance": 4000
         },
@@ -69,6 +69,78 @@
             "surname": "Peterbyrgovich",
             "photo":"",
             "balance": 3454
+        }
+    },
+    "products":{
+        {
+            "id": 1,
+            "name": "milk",
+            "price": 100,
+            "photo": "",
+            "desk": "milk"
+        },
+        {
+            "id": 2,
+            "name": "phones",
+            "price": 1020,
+            "photo": "",
+            "desk": "phones"
+        },
+        {
+            "id": 3,
+            "name": "tables",
+            "price": 109,
+            "photo": "",
+            "desk": "tables"
+        },
+        {
+            "id": 4,
+            "name": "eggs",
+            "price": 1040,
+            "photo": "",
+            "desk": "eggs"
+        },
+        {
+            "id": 5,
+            "name": "armcheirs",
+            "price": 200,
+            "photo": "",
+            "desk": "armcheirs"
+        },
+        {
+            "id": 6,
+            "name": "armor",
+            "price": 600,
+            "photo": "",
+            "desk": "armor"
+        },
+        {
+            "id": 7,
+            "name": "awp",
+            "price": 6600,
+            "photo": "",
+            "desk": "awp"
+        },
+        {
+            "id": 8,
+            "name": "molotov",
+            "price": 3100,
+            "photo": "",
+            "desk": "molotov"
+        },
+        {
+            "id": 9,
+            "name": "bananas",
+            "price": 500,
+            "photo": "",
+            "desk": "banana"
+        },
+        {
+            "id": 10,
+            "name": "chickens",
+            "price": 10000,
+            "photo": "",
+            "desk": "chickens"
         }
     }
 }
