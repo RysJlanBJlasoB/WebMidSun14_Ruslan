@@ -1,5 +1,5 @@
 {
-    "user": {
+    "users": [
         {
             "id": 1,
             "name": "Sergey",
@@ -70,8 +70,8 @@
             "photo":"",
             "balance": 3454
         }
-    },
-    "products":{
+    ],
+    "products":[
         {
             "id": 1,
             "name": "milk",
@@ -142,5 +142,5 @@
             "photo": "",
             "desk": "chickens"
         }
-    }
+    ]
 }
