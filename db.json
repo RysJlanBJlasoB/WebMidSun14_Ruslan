@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Sergey",
             "surname": "Belousov",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/360_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg?raw=true",
             "balance": 1500
             
         },
@@ -12,63 +12,63 @@
             "id": 2,
             "name": "Vlad",
             "surname": "Belosov",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/N52qXbwPtFVaFZQC7jjx0gQz5WFUgPEXowLAN3Dp-optimized_orig.jpeg?raw=true",
             "balance": 2000
         },
         {
             "id": 3,
             "name": "Maksim",
             "surname": "Krasoch",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/421462_O.jpg?raw=true",
             "balance": 2300
         },
         {
             "id": 4,
             "name":"Vadim",
             "surname":"Rysich",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/Elon_Musk_Royal_Society-1-1.jpg?raw=true",
             "balance": 1300
         },
         {
             "id": 5,
             "name": "Stas",
             "surname": "Krasniy",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/Serguei-Beloussov-2018.jpg?raw=true",
             "balance": 2700
         },
         {
             "id": 6,
             "name": "vladislav",
             "surname": "Drevniy",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/images%20(2).jpg?raw=true",
             "balance": 2850
         },
         {
             "id": 7,
             "name": "Miha",
             "surname": "TrippleKillovich",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/images.jpg?raw=true",
             "balance": 2393
         },
         {
             "id": 8,
             "name": "nikita",
             "surname": "armyan",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/miilioner_dzen.ru_glavnaya.jpeg?raw=true",
             "balance": 3933
         },
         {
             "id": 9,
             "name": "Sergey",
             "surname": "pudzhovich",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/seller.jpg?raw=true",
             "balance": 4000
         },
         {
             "id": 10,
             "name": "Artem",
             "surname": "Peterbyrgovich",
-            "photo":"",
+            "photo":"https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/square_320_2d4ae7d455f0283c05269413e8a89fa9.jpg?raw=true",
             "balance": 3454
         }
     ],
@@ -77,7 +77,7 @@
             "id": 1,
             "name": "milk",
             "price": 100,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/138x138x2-1521809-1669315925134.jpg?raw=true",
             "desk": "milk",
             "author_id": 1
         },
@@ -85,7 +85,7 @@
             "id": 2,
             "name": "phones",
             "price": 1020,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/egg.png?raw=true",
             "desk": "phones",
             "author_id": 2
         },
@@ -93,7 +93,7 @@
             "id": 3,
             "name": "tables",
             "price": 109,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/images%20(1).jpg?raw=true",
             "desk": "tables",
             "author_id": 3
         },
@@ -101,7 +101,7 @@
             "id": 4,
             "name": "eggs",
             "price": 1040,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/milk.jpg?raw=true",
             "desk": "eggs",
             "author_id": 4
         },
@@ -109,7 +109,7 @@
             "id": 5,
             "name": "armcheirs",
             "price": 200,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/550x550_sized_-image_products-chairs-chairs-16756.jpg?raw=true",
             "desk": "armcheirs",
             "author_id": 5
         },
@@ -117,7 +117,7 @@
             "id": 6,
             "name": "armor",
             "price": 600,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/table.jpg?raw=true",
             "desk": "armor",
             "author_id": 6
         },
@@ -125,7 +125,7 @@
             "id": 7,
             "name": "awp",
             "price": 6600,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/weapon_awp_cu_awp_chroma_pink_light_large.afc69cbf51b04e24149744b6ee1d998cc18d3002.png?raw=true",
             "desk": "awp",
             "author_id": 7
         },
@@ -133,7 +133,7 @@
             "id": 8,
             "name": "molotov",
             "price": 3100,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/molotov.jpg?raw=true",
             "desk": "molotov",
             "author_id": 8
         },
@@ -141,7 +141,7 @@
             "id": 9,
             "name": "bananas",
             "price": 500,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/weapon_awp_cu_awp_chroma_pink_light_large.afc69cbf51b04e24149744b6ee1d998cc18d3002.png?raw=true",
             "desk": "banana",
             "author_id": 9
         },
@@ -149,7 +149,7 @@
             "id": 10,
             "name": "chickens",
             "price": 10000,
-            "photo": "",
+            "photo": "https://github.com/RysJlanBJlasoB/WebMidSun14_Ruslan/blob/main/image/weapon_awp_cu_awp_chroma_pink_light_large.afc69cbf51b04e24149744b6ee1d998cc18d3002.png?raw=true",
             "desk": "chickens",
             "author_id": 10
         }
